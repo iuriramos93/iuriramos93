@@ -7,7 +7,7 @@ Sou apaixonado por resolver problemas utilizando a programação.
 Sou um FullStack Developer :computer:
 
    &nbsp; Estou a procura de emprego 
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos que possuo conhecimento
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native, Typescript & PHP
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO,Watch_Dogs e seriados no Netflix e Amazon Prime
  <br/> :email: &nbsp; Entre em contato comigo: 
