@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/iuriramos93/Iuri_Ramos/blob/master/profile.png">
+<img width="auto" src="profile.png"></img>
 
 # Iuri Ramos
 
@@ -15,4 +15,3 @@ Sou um FullStack Developer :computer:
 | 
 [![Gmail Badge](https://img.shields.io/badge/-iuri.ramos41@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:iuri.ramos41@gmail.com)
 
-```
