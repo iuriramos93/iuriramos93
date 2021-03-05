@@ -14,6 +14,7 @@ Sou um FullStack Developer :computer:
 - <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 - <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 - <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+- <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
  ## FRONT - END
  - <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -26,7 +27,6 @@ Sou um FullStack Developer :computer:
  - <img alt="Laravel" src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO,Watch_Dogs e seriados no Netflix e Amazon Prime
  <br/> :email: &nbsp; Entre em contato comigo: 
-[![Linkedin Badge](https://img.shields.io/badge/-Iuri_Ramos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuri-ramos93/)](https://www.linkedin.com/in/iuri-ramos93/)
-| 
-[![Gmail Badge](https://img.shields.io/badge/-iuri.ramos41@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:iuri.ramos41@gmail.com)
-
+[<img alt="Linkedin" src="https://img.shields.io/badge/-Iuri_Ramos-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuri-ramos93/"/>](https://www.linkedin.com/in/iuri-ramos93/)
+| [<img alt="Gmail" src="https://img.shields.io/badge/-iuri.ramos41@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:iuri.ramos41@gmail.com"/>](mailto:iuri.ramos41@gmail.com)
+| [<img alt="Discord" src="https://img.shields.io/badge/%3CSnevers%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>](Snevers#3328)
