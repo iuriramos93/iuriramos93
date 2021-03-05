@@ -9,7 +9,7 @@ Sou um FullStack Developer :computer:
    &nbsp; Estou a procura de emprego
  <br/> 🎓 Formado em Análise e Desenvolvimento de Sistemas, iniciando os estudos em SI
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos que possuo conhecimento
- <br/> :computer: &nbsp; Minha stack: [React Badge]
+ <br/> :computer: &nbsp; Minha stack: [React Badge](https://simpleicons.org/icons/react.svg)
  (nodejs.org)
  (reactnative.dev)
   (typescriptlang.org)
