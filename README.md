@@ -1,4 +1,4 @@
-<style>
+<style type="text/stylesheet">
 #user-content-profile{border-radius:100%;}   
 </style>
 
