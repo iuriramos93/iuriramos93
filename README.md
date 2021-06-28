@@ -1,7 +1,3 @@
-<style type="text/stylesheet">
-#user-content-profile{border-radius:100%;}   
-</style>
-
 <img id="profile" width="auto" style="border-radius:100%" src="profile.png"></img>
 
 # Iuri Ramos
