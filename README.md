@@ -25,7 +25,7 @@ Sou um FullStack Developer :computer:
  ## BACK-END
  - <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> 
  - <img alt="Laravel" src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
- <br/> <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuriramos93"/>
+ <br/> <img id="top_lang" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuriramos93"/>
  
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO,Watch_Dogs e seriados no Netflix e Amazon Prime
  <br/> :email: &nbsp; Entre em contato comigo: 
@@ -37,3 +37,9 @@ Sou um FullStack Developer :computer:
 ![Snake animation](https://github.com/iuriramos93/iuriramos93/blob/output/github-contribution-grid-snake.svg)
 
 
+
+<style>
+   #top_lang{
+   text-align:center;
+   }
+   </style>
