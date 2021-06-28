@@ -25,7 +25,10 @@ Sou um FullStack Developer :computer:
  ## BACK-END
  - <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> 
  - <img alt="Laravel" src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
- <br/> <img style="text-align:center" id="top_lang" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuriramos93"/>
+ <br/> 
+ <p align="center">
+ <img style="text-align:center" id="top_lang" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuriramos93"/>
+ </p>
  
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO,Watch_Dogs e seriados no Netflix e Amazon Prime
  <br/> :email: &nbsp; Entre em contato comigo: 
