@@ -1,4 +1,4 @@
-<img width="auto" style="border-radius:10rem;" src="profile.png"></img>
+<img id="profile" width="auto" style="border-radius:100%" src="profile.png"></img>
 
 # Iuri Ramos
 
