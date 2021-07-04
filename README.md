@@ -1,4 +1,4 @@
-<img id="profile" width="auto" style="border-radius:100%" src="profile.png"></img>
+<img id="profile" width="auto" style="border-radius:100px" src="profile.png"></img>
 
 # Iuri Ramos
 
@@ -37,5 +37,5 @@ Sou um FullStack Developer :computer:
 | [<img alt="Discord" src="https://img.shields.io/badge/%3CSnevers%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>](Snevers#3328)
 
 
-
+![Snake animation](https://github.com/iuriramos93/iuriramos93/blob/output/github-contribution-grid-snake.svg)
 
