@@ -33,8 +33,8 @@ Sou um FullStack Developer :computer:
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO,Watch_Dogs e seriados no Netflix e Amazon Prime
  <br/> :email: &nbsp; Entre em contato comigo: 
 [<img alt="Linkedin" src="https://img.shields.io/badge/-Iuri_Ramos-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuri-ramos93/"/>](https://www.linkedin.com/in/iuri-ramos93/)
-| [<img alt="Gmail" src="https://img.shields.io/badge/-iuri.ramos41@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:iuri.ramos41@gmail.com"/>](mailto:iuri.ramos41@gmail.com)
-| [<img alt="Discord" src="https://img.shields.io/badge/%3CSnevers%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>](Snevers#3328)
+ [<img alt="Gmail" src="https://img.shields.io/badge/-iuri.ramos41@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:iuri.ramos41@gmail.com"/>](mailto:iuri.ramos41@gmail.com)
+ [<img alt="Discord" src="https://img.shields.io/badge/%3CSnevers%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>](Snevers#3328)
 
 
 ![Snake animation](https://github.com/iuriramos93/iuriramos93/blob/output/github-contribution-grid-snake.svg)
