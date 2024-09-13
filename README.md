@@ -1,24 +1,44 @@
-<h1 align="left">Olá pessoal 👋</h1>
+<h1 align="left">Olá pessoal!! Eu sou o Iuri 👋</h1>
 
-###
+
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Z1ZWNrcG9weW5xdDg0OXl3dXBhYzJuNDF0a3oxdndnc2x3emc1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SCt3Miv6ugvSg/giphy.gif"  />
 </div>
 
-###
+
 
 <br clear="both">
 
-<h6 align="left">Sou apaixonado por resolver problemas utilizando a programação. Sou um FullStack Developer 💻<br><br><br>🎓 Formado em Análise e Desenvolvimento de Sistemas, terminando Pós em Segurança da Informação<br>💜   Buscando colaborar com projetos que possuo conhecimento</h6>
+<h3 align="left">Sou apaixonado por resolver problemas através da tecnologia e da programação. Tenho experiência como Desenvolvedor Full Stack e adoro trabalhar com tecnologias modernas e inovadoras.</h6>
 
-###
 
+
+<h2>🛠️ Tecnologias que domino:</h2>
+    <ul>
+        <li><strong>Frontend</strong>: HTML5, CSS3, JavaScript (React, Vue.js), Typescript</li>
+        <li><strong>Backend</strong>: Python, Node.js, PHP, Laravel</li>
+      <li><strong>Mobile</strong>: React Native </li>
+        <li><strong>Banco de Dados</strong>: MySQL, PostgreSQL, MongoDB</li>
+        <li><strong>DevOps</strong>: Docker, Kubernetes, AWS, CI/CD</li>
+        <li><strong>Segurança</strong>: Práticas de segurança da informação, criptografia, análise de vulnerabilidades</li>
+    </ul>
+    <h2>📚 Formação Acadêmica:</h2>
+    <ul>
+        <li><strong>Graduação</strong>: Análise e Desenvolvimento de Sistemas</li>
+        <li><strong>Pós-graduação</strong>: Segurança da Informação</li>
+    </ul>
+    <h2>💼 Experiência Profissional:</h2>
+    <ul>
+        <li>Desenvolvimento de soluções web responsivas.</li>
+        <li>Integração com APIs RESTful e GraphQL.</li>
+        <li>Automação de processos com Python.</li>
+        <li>Monitoramento e melhoria contínua de sistemas em produção.</li>
+    </ul>
 <h2 align="left">Techs</h2>
 
-###
 
 <br clear="both">
 
